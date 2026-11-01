@@ -22,3 +22,9 @@ version control and automated testing.
 - TortoiseGit
 - GitHub
 - GitHub Actions
+
+## Project Features
+
+- Adds two numbers using a JavaScript function.
+- Includes automated tests.
+- Uses Git for version control.
